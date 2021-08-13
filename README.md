@@ -1,0 +1,2 @@
+# Medoid-HLS-Compositing
+ The multi temporal and harmonized multi senor data can be utilized to prepare a composite image which can be a representative of specific time period. Since medoid is just a multi-dimensional median the composited image shall be robust to extreme values and hence cloud free and shadow free in most of the cases. Further the advantage of using HLS data sets in this is availability of data from different sensors increase the probability of obtaining a better and seamless composite image. 
