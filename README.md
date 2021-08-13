@@ -14,7 +14,7 @@ https://bharathk113.github.io
  The multi temporal and harmonized multi senor data can be utilized to prepare a composite image which can be a representative of specific time period. Since medoid is just a multi-dimensional median the composited image shall be robust to extreme values and hence cloud free and shadow free in most of the cases. Further the advantage of using HLS data sets in this is availability of data from different sensors increase the probability of obtaining a better and seamless composite image.
 
 ## Running the Script 📦
-- Downlaod the repository
+- Downland the repository
 - Download the sample HLS images from [google drive](https://drive.google.com/drive/folders/1IvfuO6wsUnuJ9cDRo15OB4ffSNJoxHKe?usp=sharing) or from [HLS Sentinel](https://lpdaac.usgs.gov/products/hlss30v015/) and [HLS Landsat](https://lpdaac.usgs.gov/products/hlsl30v015/)
 - Extract the files into folder named subset and run the code
 
