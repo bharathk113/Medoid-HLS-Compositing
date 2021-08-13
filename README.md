@@ -19,8 +19,8 @@ https://bharathk113.github.io
 - Extract the files into folder named subset and run the code
 
 ## Required Python Packages 🛠️
-* [<b>GDAL</b>](https://create-react-app.dev/docs/deployment/#github-pages) - To host my static website (HTML, CSS, JS).
-* [<b>Numpy</b>](https://materializecss.com/) - A CSS framework to get Google's Material Design components.
+* [<b>GDAL</b>](https://gdal.org/) - For reading and writing geospatial datasets.
+* [<b>Numpy</b>](https://numpy.org/) - For all other computations.
 * glob, os, and math
 
 ## Contributing 💡
